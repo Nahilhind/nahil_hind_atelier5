@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957366708477",
+    "project_id": "atelier4-h-nahil-iir5g2",
+    "storage_bucket": "atelier4-h-nahil-iir5g2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957366708477:android:eef1376cd7b2b628de3694",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_h_nahil_iir5g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5-GwEDkf2shSZIqCMFOkS1M-qPvkw7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
